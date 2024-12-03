@@ -1,0 +1,6 @@
+@InMemorySampleProject_HostAddress = http://localhost:5044
+
+GET {{InMemorySampleProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
